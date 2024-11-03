@@ -25,3 +25,12 @@ A simple and elegant Random Quote Generator built with HTML, CSS, and JavaScript
 - Adjust styles in `style.css` to customize the appearance.
 
 
+
+# Demo 
+
+Look at these Screen-shot
+![image](https://github.com/user-attachments/assets/24933e9c-f354-4e3b-8e79-0309ecee1af0)
+
+![image](https://github.com/user-attachments/assets/6b27d156-3772-4d95-a8c1-ad74f5ff5213)
+
+
