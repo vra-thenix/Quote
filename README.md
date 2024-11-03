@@ -36,5 +36,5 @@ Look at these Screen-shot
 
 # LINK 
 
-Check out this link :-  https://quotes-vra.netlify.app/
+Check out this link :-  https://quotes-vra.netlify.app
 
