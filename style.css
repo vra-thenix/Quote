@@ -58,10 +58,11 @@ button:hover {
     bottom: 20px;
     left: 20px;
     padding: 10px 15px;
-    background: rgba(255, 255, 255, 0.6);
+    background: space;
     backdrop-filter: blur(5px);
     border-radius: 5px;
-    font-size: 14px;
-    color: #333;
+    font-size: 15px;
+    font-style: bold;
+    color: #25b77f;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
